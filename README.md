@@ -3,4 +3,4 @@
 ### Sou estudante do Humberto de Campos 
 #### Minha turma é o 1B
 ##### Disclipina de Pensamento Computacional
-###### [click aqui](https://www.youtube.com/watch?v=7YgYGJre44U)
+###### [click aqui](https://www.youtube.com/watch?v=zE1IRbhqMb8)
